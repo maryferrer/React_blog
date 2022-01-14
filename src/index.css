@@ -101,3 +101,19 @@
   border-radius: 8px;
   cursor: pointer;
 }
+/* 404 page */
+.not-found h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+.not-found p {
+  margin-bottom: 20px;
+}
+.error-button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
